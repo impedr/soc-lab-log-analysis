@@ -19,4 +19,4 @@ Technologies used:
 - Splunk
 - Linux
 - Auth.log
->>>>>>> 2268ab07ef8b03c4e004dcae4790ab634fdf83d6
+
